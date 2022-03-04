@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TeamDeathmatch",
+	"Description": "TeamDeathmatch",
+	"Category": "UGC",
+	"CreatedBy": "Xpe",
+	"CreatedByURL": "https://github.com/xpenatan",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
